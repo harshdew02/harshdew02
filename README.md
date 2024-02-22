@@ -3,7 +3,7 @@
 <!--  -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=800&height=100&lines=Jai+Shree+Ram..🚩;Self-taught+React-Native+Developer..👨‍💻,;Self-taught+Front-End+Developer..👨‍💻,;Electronics+and+Communication+Student..🧑‍🎓,;Pre+Final+Year+@NIT+Raipur..🎓,;CodeForces+Pupil..🎯,;Active+Learner/Researcher..📖,;Love+to+learn+new+stuffs..<3..🤓"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=800&height=100&lines=Jai+Shree+Ram..🚩;React-Native+Developer..👨‍💻,;Front-End+Developer..👨‍💻,;Electronics+and+Communication+Student..🧑‍🎓,;Pre+Final+Year+@NIT+Raipur..🎓,;CodeForces+Pupil..🎯,;Active+Learner/Researcher..📖,;Love+to+learn+new+stuffs..<3..🤓"></a>
 </p>
 
 <!--Night Owl image-->
