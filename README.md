@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=800&height=100&lines=Software+Engineer+@PharmEasy..👨‍💻;Go+Lang+%26+Spring+Boot+Developer..🚀;Problem+Solver+(1000++Questions)..🎯;Smart+India+Hackathon+Finalist..🏆;NIT+Raipur+Alumnus..🎓"></a>
 </p>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> **About Me**
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **About Me**
 
 - 🚀 **Software Engineer** at **PharmEasy (API Holdings)** since Jan 2025.
 - 🛠️ Currently developing **Plus 2.0** for loyalty credits and managing partner APIs for **Swiggy** and **August AI**.
